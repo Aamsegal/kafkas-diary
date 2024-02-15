@@ -1,0 +1,12 @@
+.relicStatisticCalculator_CharacterSelectorContainer .characterSelectorSelect .characterSelectorIcon {
+    display:block
+}
+
+.relicStatisticCalculator_CharacterSelectorContainer{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
